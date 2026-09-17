@@ -1,45 +1,48 @@
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=Joyel%20Shaji&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Software%20Engineering&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=220&section=header&text=Joyel%20Shaji&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Engineer%20%7C%20AI%20%7C%20Software%20Engineering&descAlignY=58&descSize=17" width="100%"/>
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems.;Exploring+AI%2C+ML+%26+intelligent+systems.;Full-Stack+Developer+%7C+Product+Builder.;Turning+ideas+into+working+products." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+software+that+solves+real+problems.;Exploring+AI%2C+ML+%26+intelligent+systems.;Full-Stack+Developer+%7C+Product+Builder.;Turning+ideas+into+working+products." alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <a href="https://www.ajce.in/">
-  <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
+
 <a href="https://www.ajce.in/">
-  <img src="https://img.shields.io/badge/Amal%20Jyothi%20College%20of%20Engineering-312E81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amal%20Jyothi%20College%20of%20Engineering-312E81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
+
 <a href="https://www.google.com/maps/search/?api=1&query=Kerala%2C%20India">
-  <img src="https://img.shields.io/badge/Kerala%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kerala%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <a href="https://joyelshaji-profile.pages.dev/">
-  <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/joyel-shaji/">
-  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:joyelshajim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
 <a href="https://github.com/joyelshajii">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=joyelshajii&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/joyelshajii?label=FOLLOWERS&style=flat-square&color=4C1D95" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/joyelshajii?label=STARS&style=flat-square&color=312E81" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=joyelshajii&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/joyelshajii?label=FOLLOWERS&style=flat-square&color=4C1D95"/>
+
+<img src="https://img.shields.io/github/stars/joyelshajii?label=STARS&style=flat-square&color=312E81"/>
 
 </div>
 
@@ -49,7 +52,7 @@
 
 I am a **Computer Science & Engineering student at Amal Jyothi College of Engineering**, focused on software engineering, artificial intelligence, and product development.
 
-I enjoy building systems where software meets real-world problems. My work spans **AI/ML, full-stack development, intelligent systems, databases, automation, and product design**.
+I enjoy building systems that solve real problems. My work spans **AI/ML, full-stack development, databases, intelligent systems, automation, and product design**.
 
 I also work across technical and leadership roles through student communities, hackathons, research projects, and product-focused initiatives.
 
@@ -59,10 +62,11 @@ My current focus is on becoming a stronger software engineer by building systems
 
 - Software Engineering & Full-Stack Development
 - Artificial Intelligence & Machine Learning
-- AI-powered applications and intelligent systems
-- Product Engineering & Rapid Prototyping
+- AI-powered applications
+- Product Engineering
 - Database Design & Backend Systems
-- Hackathons, research projects, and technical communities
+- Hackathons and research projects
+- Technical communities and student leadership
 
 ### Open To
 
@@ -71,7 +75,7 @@ My current focus is on becoming a stronger software engineer by building systems
 - Research Collaborations
 - Open Source Contributions
 - Product Development
-- Technical Communities & Hackathons
+- Technical Communities
 
 ---
 
@@ -80,47 +84,47 @@ My current focus is on becoming a stronger software engineer by building systems
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript,sql"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,go,mysql,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=nodejs,go,mysql,postgresql,sqlite"/>
 </p>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,cloudflare,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,docker,cloudflare,figma"/>
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
 </p>
 
 ---
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |---|---|---|
 | Machine Learning | Intermediate | Classification, preprocessing, evaluation and model development |
 | NLP | Intermediate | Text classification, embeddings and transformer-based models |
 | Transformers | Intermediate | BERT, DistilBERT and Hugging Face workflows |
-| Computer Vision | Intermediate | Image-based detection and AI-assisted applications |
-| Deep Learning | Intermediate | PyTorch-based model development and experimentation |
-| AI Agents | Exploring | AI agents, LLM-based workflows and intelligent automation |
-| Data Processing | Intermediate | Dataset cleaning, preprocessing and feature preparation |
-| AI for Software Engineering | Research | Requirement classification and software sustainability analysis |
+| Computer Vision | Intermediate | Image-based detection and AI applications |
+| Deep Learning | Intermediate | PyTorch-based model development |
+| AI Agents | Exploring | Agent workflows and LLM-based systems |
+| Data Processing | Intermediate | Dataset cleaning and preprocessing |
+| AI for Software Engineering | Research | Requirement classification and sustainability analysis |
 
 ---
 
@@ -135,11 +139,11 @@ An automated system designed to detect, collect, transport, dewater and process 
 
 | Attribute | Details |
 |---|---|
-| **Stack** | ESP32, Raspberry Pi-class computer, Python, Computer Vision, GPS, Sensors |
-| **Scale** | Prototype / Student Startup |
+| **Stack** | ESP32, Raspberry Pi, Python, Computer Vision, GPS, Sensors |
+| **Scale** | Student Startup / Prototype |
 | **Performance** | Designed for continuous aquatic biomass collection |
-| **Security** | Device-level controls and authenticated software communication |
-| **Impact** | Waterway restoration + biomass recovery + circular processing |
+| **Security** | Device-level controls and authenticated communication |
+| **Impact** | Waterway restoration and biomass recovery |
 | **Repository** | Coming soon |
 
 ### Engineering Scope
@@ -147,13 +151,13 @@ An automated system designed to detect, collect, transport, dewater and process 
 - Camera-assisted aquatic weed detection
 - GPS-based navigation
 - Ultrasonic sensing
-- Conveyor-based biomass collection
+- Conveyor-based collection
 - Mechanical dewatering
-- ESP32-based sensor and actuator control
+- ESP32-based control
 - Raspberry Pi-class edge computing
 - Battery-powered operation
 - Solar-assisted charging
-- Biomass recovery for downstream processing
+- Biomass recovery and processing
 
 </details>
 
@@ -162,27 +166,27 @@ An automated system designed to detect, collect, transport, dewater and process 
 
 <br/>
 
-An AI-enabled hybrid indoor-outdoor navigation platform designed for large hospitals and medical campuses.
+An AI-enabled hybrid indoor-outdoor navigation system designed for large hospitals and medical campuses.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | ESP32, BLE, Wi-Fi, QR, GPS, Graph Algorithms, Web Technologies |
+| **Stack** | ESP32, BLE, Wi-Fi, QR, GPS, Graph Algorithms |
 | **Scale** | Hospital / Campus Navigation |
-| **Performance** | Graph-based route computation using Dijkstra's algorithm |
-| **Security** | Privacy-aware location and status architecture |
-| **Impact** | Reduces navigation friction across complex hospital environments |
+| **Performance** | Graph-based route computation |
+| **Security** | Privacy-aware location architecture |
+| **Impact** | Helps patients navigate complex hospital environments |
 | **Repository** | Coming soon |
 
 ### Engineering Scope
 
 - Outdoor GPS navigation
 - Indoor BLE/RSSI positioning
-- QR-based smart location markers
+- QR-based location markers
 - Wi-Fi-assisted positioning
 - Graph-based route planning
 - Doctor schedules and availability
 - Real-time status updates
-- Verified patient feedback
+- Verified feedback
 - AI-assisted feedback analysis
 
 </details>
@@ -199,7 +203,7 @@ A privacy-focused search system that helps users find forgotten digital files us
 | **Stack** | Python, Vector Embeddings, OCR, Semantic Search, Multimodal AI |
 | **Scale** | Local-file MVP |
 | **Performance** | Context-aware semantic retrieval |
-| **Security** | Local-first and privacy-focused architecture |
+| **Security** | Local-first and privacy-focused |
 | **Impact** | Makes forgotten digital information easier to recover |
 | **Repository** | Coming soon |
 
@@ -212,7 +216,6 @@ A privacy-focused search system that helps users find forgotten digital files us
 - Multimodal retrieval
 - Context-based search
 - Local file processing
-- Privacy-focused architecture
 
 </details>
 
@@ -226,9 +229,9 @@ An AI-assisted platform for reporting, identifying and mapping pollution in rive
 | Attribute | Details |
 |---|---|
 | **Stack** | AI/ML, Computer Vision, Maps, Web Technologies |
-| **Scale** | Environmental monitoring platform |
-| **Performance** | Automated image-based waste classification |
-| **Security** | Location and report validation |
+| **Scale** | Environmental Monitoring Platform |
+| **Performance** | Image-based waste classification |
+| **Security** | Report and location validation |
 | **Impact** | Helps identify pollution patterns and hotspots |
 | **Repository** | Coming soon |
 
@@ -238,8 +241,44 @@ An AI-assisted platform for reporting, identifying and mapping pollution in rive
 - Location-based reporting
 - Pollution hotspot mapping
 - Waste category detection
-- User-generated environmental reports
+- Environmental reports
 - AI-assisted analysis
+
+</details>
+
+<details>
+<summary><strong>🧭 CampusPath — Campus Navigation System</strong></summary>
+
+<br/>
+
+A campus navigation system designed to help users locate faculty members and event venues.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Node.js, Express.js, SQLite, JavaScript |
+| **Scale** | Campus-level system |
+| **Performance** | Fast database-backed location lookup |
+| **Security** | Structured backend access |
+| **Impact** | Simplifies navigation across campus |
+| **Repository** | Coming soon |
+
+</details>
+
+<details>
+<summary><strong>🐾 WADS — Wild Animal Detection System</strong></summary>
+
+<br/>
+
+A camera-based system designed to detect wild animals near forest-border areas.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, Computer Vision, IoT, SMS API |
+| **Scale** | Prototype |
+| **Performance** | Automated image-based detection |
+| **Security** | Alert-based monitoring |
+| **Impact** | Supports early detection near forest-border areas |
+| **Repository** | Coming soon |
 
 </details>
 
@@ -247,17 +286,19 @@ An AI-assisted platform for reporting, identifying and mapping pollution in rive
 
 ## Experience
 
+### Internship Coordinator — JnS Global
+**2025 — 2026**
+
+Coordinate internship programs, application tracking, placement logistics and partner communication.
+
+`Project Management` `Communication` `Workflow Management`
+
+---
+
 ### Product Management IG Lead — μLearn
 **2026 — Present**
 
 Leading the Product Management Interest Group and working on product thinking, community activities and structured product development.
-
-**Scope**
-- Product ideation
-- Product management activities
-- Community coordination
-- Team collaboration
-- Product-focused learning
 
 `Product Management` `Leadership` `Community`
 
@@ -266,14 +307,7 @@ Leading the Product Management Interest Group and working on product thinking, c
 ### Chairman — AI Club, AJCE
 **2025 — 2026**
 
-Led the AI Club at Amal Jyothi College of Engineering with a focus on AI learning, technical activities and student engagement.
-
-**Scope**
-- Technical community leadership
-- Event planning
-- AI-focused activities
-- Team coordination
-- Student engagement
+Led AI-focused learning initiatives and coordinated technical activities for students.
 
 `AI/ML` `Leadership` `Community`
 
@@ -282,14 +316,7 @@ Led the AI Club at Amal Jyothi College of Engineering with a focus on AI learnin
 ### Marketing Lead — ACM Student Chapter, AJCE
 **2025 — 2026**
 
-Worked on marketing, communication and outreach for the ACM Student Chapter.
-
-**Scope**
-- Marketing strategy
-- Event promotion
-- Social media
-- Community outreach
-- Team coordination
+Leading marketing and outreach activities for the ACM Student Chapter.
 
 `Marketing` `Communication` `Leadership`
 
@@ -307,14 +334,7 @@ Contributing to marketing and community activities within the GDG ecosystem.
 ### Judge Management Co-Lead — NASA Space Apps Hackathon
 **2025**
 
-Coordinated judge communication and evaluation workflows for a large-scale hackathon.
-
-**Scope**
-- Judge coordination
-- Evaluation workflow
-- Communication
-- Event operations
-- Team management
+Coordinated judge communication and evaluation workflows for the hackathon.
 
 `Hackathons` `Operations` `Leadership`
 
@@ -323,9 +343,9 @@ Coordinated judge communication and evaluation workflows for a large-scale hacka
 ### Graphic Designer — PrintBot
 **Internship**
 
-Worked as a graphic designer at a 3D-printing startup, contributing to visual communication and design work.
+Worked on digital marketing assets and visual branding for a 3D-printing startup.
 
-`Graphic Design` `3D Printing` `Design`
+`Graphic Design` `Figma` `Photoshop` `Digital Marketing`
 
 ---
 
@@ -335,13 +355,12 @@ Worked as a graphic designer at a 3D-printing startup, contributing to visual co
 
 | Recognition | Details |
 |---|---|
-| 🥇 **Kerala State Mission Quiz** | Secured 1st place at the Kerala State level |
 | 🏆 **NPTEL** | Top 1% in Data Structures and Algorithms using Java |
-| 🎓 **Academic Excellence** | Consistent high academic performance at AJCE |
-| 📜 **Director's Honours List** | Recognized for academic performance |
-| 💻 **Hackathons** | Participated in multiple national-level innovation and hackathon events |
-| 🚀 **Student Startup** | KAYORA selected for RKVY-RAFTAAR Student Startup Programme — Cohort 8, Level 1 |
-| 🧠 **Research** | Worked on Software Engineering for AI during internship at NIT Calicut |
+| 🎓 **Manager's Honors List** | Recognized for academic excellence |
+| 🥇 **Academic Performance** | 10.00 SGPA in S3 and S4 |
+| 🚀 **Student Startup** | KAYORA selected for RKVY-RAFTAAR Student Startup Programme |
+| 🧠 **Research** | Software Engineering for AI research experience at NIT Calicut |
+| 💻 **Hackathons** | Participated in innovation and hackathon programs |
 
 </div>
 
@@ -404,11 +423,11 @@ Worked as a graphic designer at a 3D-printing startup, contributing to visual co
 <div align="center">
 
 <a href="https://github.com/joyelshajii">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joyelshajii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=joyelshajii&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9"/>
 </a>
 
 <a href="https://github.com/joyelshajii">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyelshajii&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyelshajii&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
 </a>
 
 <br/><br/>
@@ -423,9 +442,7 @@ Worked as a graphic designer at a 3D-printing startup, contributing to visual co
 
 <div align="center">
 
-<a href="https://github.com/joyelshajii">
-<img src="https://github-profile-trophy.vercel.app/?username=joyelshajii&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=joyelshajii&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -435,9 +452,7 @@ Worked as a graphic designer at a 3D-printing startup, contributing to visual co
 
 <div align="center">
 
-<a href="https://github.com/joyelshajii">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joyelshajii&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" width="100%"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joyelshajii&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 
 </div>
 
@@ -447,7 +462,11 @@ Worked as a graphic designer at a 3D-printing startup, contributing to visual co
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/joyelshajii/joyelshajii/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joyelshajii/joyelshajii/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joyelshajii/joyelshajii/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/joyelshajii/joyelshajii/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
@@ -457,6 +476,7 @@ Worked as a graphic designer at a 3D-printing startup, contributing to visual co
 
 ```yaml
 currently:
+
   learning:
     - Advanced Machine Learning
     - AI Agents
@@ -465,9 +485,9 @@ currently:
     - Backend Engineering
 
   building:
-    - AI-powered software systems
     - KAYORA
     - MediPath
+    - AI-powered software systems
     - Intelligent search systems
     - Full-stack applications
 
