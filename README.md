@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/joyel-shaji/">
+<a href="https://www.linkedin.com/in/joyelshaji/">
 <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
