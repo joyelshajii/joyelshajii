@@ -374,49 +374,12 @@ Worked on digital marketing assets and visual branding for a 3D-printing startup
 <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms%20using%20Java-6D28D9?style=for-the-badge&logo=nptel&logoColor=white"/>
 </a>
 
-### AWS
-
-<a href="https://aws.amazon.com/certification/">
-<img src="https://img.shields.io/badge/AWS-Certifications-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
-
 ### Oracle
 
 <a href="https://education.oracle.com/">
 <img src="https://img.shields.io/badge/Oracle-Certifications-312E81?style=for-the-badge&logo=oracle&logoColor=white"/>
 </a>
 
-### Cisco
-
-<a href="https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html">
-<img src="https://img.shields.io/badge/Cisco-Certifications-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
-</a>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=0F9D58"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=F0A500"/>
-</a>
-
-</div>
-
----
 
 ## GitHub Analytics
 
