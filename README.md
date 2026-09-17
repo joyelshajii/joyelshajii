@@ -399,27 +399,6 @@ Worked on digital marketing assets and visual branding for a 3D-printing startup
 
 </div>
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=joyelshajii&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joyelshajii&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
-
-</div>
-
----
 
 ## Contribution Snake
 
