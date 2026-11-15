@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<a href="https://joyelshaji-profile.pages.dev/">
+<a href="https://joyelshaji.pages.dev/">
 <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
